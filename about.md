@@ -1,17 +1,12 @@
 ---
 layout: post
-title: About
+title: 青年觉醒
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+很不幸的是，现在的青年人正走在一条不属于自己的道路上，他们要么安逸但是无所事事，要么奋斗但是终不得志，要么愤慨但是毫无作为。
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+但，庆幸的是，青年人正在觉醒，越来越多的人意识到了我们所处的境地，越来越多的人意识到不是青年人的问题，而是社会发展的顽疾开始显现。
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+青年人需要作出改变，追随自己的内心，为自己而活。
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+别去改变环境，但如果能坚持为自己而活，那么环境终会改变。
